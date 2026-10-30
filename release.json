@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "sourceCommit": "99bef28",
+  "version": "2.0.2",
+  "sourceCommit": "7953c2c",
   "api": "https://earning-backend-m1gr.onrender.com",
   "admin": "https://earning-backend-m1gr.onrender.com/admin"
 }
